@@ -1,0 +1,13 @@
+
+1 . generate a matrix with two columns and 1000 rows (The columns of M are X and Y )
+2. Calculate distances between every pair. ( there are 1000*999/2 unique pairs)
+ so for each pair find the distance between it and all the other pairs except itself.
+3. find the time taken for this to run
+4. use dot-product method for distances
+5. use the dist function in R
+5. Compare the times
+6. Now use the Rcpp library to test fastdist2.cpp
+7. Also use the the C++ function in eucdist.cpp
+7. Test the speed of both approach
+8. Check the code for fastdist2 it assumes that input is an integer change the type to double or float
+9. Try all of this in python

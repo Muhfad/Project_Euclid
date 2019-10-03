@@ -1,0 +1,69 @@
+The times are calculated by taking the average time of 100 replications of the same function
+
+ ******************************************************************************** 
+
+100 by 2
+
+python function without dot product
+	time	relative
+	3.045	1
+
+using C
+	time	relative
+	0.055	55.364
+
+using dot product
+	time	relative
+	4.872	0.625
+
+
+ ******************************************************************************** 
+
+500 by 2
+
+python function without dot product
+	time	relative
+	75.231	1
+
+using C
+	time	relative
+	1.356	55.48
+
+using dot product
+	time	relative
+	122.563	0.614
+
+
+ ******************************************************************************** 
+
+1000 by 2
+
+python function without dot product
+	time	relative
+	315.346	1
+
+using C
+	time	relative
+	7.803	40.413
+
+using dot product
+	time	relative
+	673.697	0.468
+
+
+ ******************************************************************************** 
+
+1500 by 2
+
+python function without dot product
+	time	relative
+	982.838	1
+
+using C
+	time	relative
+	17.325	56.729
+
+using dot product
+	time	relative
+	1592.454	0.617
+

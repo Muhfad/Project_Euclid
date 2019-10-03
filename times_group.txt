@@ -1,0 +1,402 @@
+Timings for each groups for all functions
+
+
+ ********************   group_1   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.042   0.0952
+5 eucdist_C(group_matrix)   0.015   0.2667
+2 eucdist_R(group_matrix)   0.031   0.1290
+4 fastdist2(group_matrix)   0.005   0.8000
+
+ ********************   group_2   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.007   1.0000
+1   dotprod(group_matrix)   0.171   0.0409
+5 eucdist_C(group_matrix)   0.005   1.4000
+2 eucdist_R(group_matrix)   0.134   0.0522
+4 fastdist2(group_matrix)   0.007   1.0000
+
+ ********************   group_3   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.006   1.0000
+1   dotprod(group_matrix)   0.138   0.0435
+5 eucdist_C(group_matrix)   0.003   2.0000
+2 eucdist_R(group_matrix)   0.095   0.0632
+4 fastdist2(group_matrix)   0.005   1.2000
+
+ ********************   group_4   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.005   1.0000
+1   dotprod(group_matrix)   0.102   0.0490
+5 eucdist_C(group_matrix)   0.004   1.2500
+2 eucdist_R(group_matrix)   0.071   0.0704
+4 fastdist2(group_matrix)   0.004   1.2500
+
+ ********************   group_5   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.077   0.0519
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.052   0.0769
+4 fastdist2(group_matrix)   0.003   1.3333
+
+ ********************   group_6   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.007   1.0000
+1   dotprod(group_matrix)   0.149   0.0470
+5 eucdist_C(group_matrix)   0.006   1.1667
+2 eucdist_R(group_matrix)   0.134   0.0522
+4 fastdist2(group_matrix)   0.006   1.1667
+
+ ********************   group_7   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.006   1.0000
+1   dotprod(group_matrix)   0.071   0.0845
+5 eucdist_C(group_matrix)   0.004   1.5000
+2 eucdist_R(group_matrix)   0.050   0.1200
+4 fastdist2(group_matrix)   0.003   2.0000
+
+ ********************   group_8   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.087   0.0460
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.059   0.0678
+4 fastdist2(group_matrix)   0.004   1.0000
+
+ ********************   group_9   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.005   1.0000
+1   dotprod(group_matrix)   0.160   0.0312
+5 eucdist_C(group_matrix)   0.004   1.2500
+2 eucdist_R(group_matrix)   0.136   0.0368
+4 fastdist2(group_matrix)   0.006   0.8333
+
+ ********************   group_10   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.106   0.0377
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.073   0.0548
+4 fastdist2(group_matrix)   0.003   1.3333
+
+ ********************   group_11   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.115   0.0348
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.084   0.0476
+4 fastdist2(group_matrix)   0.004   1.0000
+
+ ********************   group_12   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.152   0.0263
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.105   0.0381
+4 fastdist2(group_matrix)   0.005   0.8000
+
+ ********************   group_13   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.088   0.0455
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.049   0.0816
+4 fastdist2(group_matrix)   0.003   1.3333
+
+ ********************   group_14   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.005   1.0000
+1   dotprod(group_matrix)   0.125   0.0400
+5 eucdist_C(group_matrix)   0.004   1.2500
+2 eucdist_R(group_matrix)   0.063   0.0794
+4 fastdist2(group_matrix)   0.003   1.6667
+
+ ********************   group_15   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.058   0.0690
+5 eucdist_C(group_matrix)   0.004   1.0000
+2 eucdist_R(group_matrix)   0.041   0.0976
+4 fastdist2(group_matrix)   0.003   1.3333
+
+ ********************   group_16   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.116   0.0345
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.081   0.0494
+4 fastdist2(group_matrix)   0.004   1.0000
+
+ ********************   group_17   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.126   0.0317
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.095   0.0421
+4 fastdist2(group_matrix)   0.004   1.0000
+
+ ********************   group_18   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.003   1.0000
+1   dotprod(group_matrix)   0.084   0.0357
+5 eucdist_C(group_matrix)   0.003   1.0000
+2 eucdist_R(group_matrix)   0.058   0.0517
+4 fastdist2(group_matrix)   0.003   1.0000
+
+ ********************   group_19   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.005   1.0000
+1   dotprod(group_matrix)   0.137   0.0365
+5 eucdist_C(group_matrix)   0.003   1.6667
+2 eucdist_R(group_matrix)   0.100   0.0500
+4 fastdist2(group_matrix)   0.005   1.0000
+
+ ********************   group_20   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.191   0.0209
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.132   0.0303
+4 fastdist2(group_matrix)   0.006   0.6667
+
+ ********************   group_21   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.135   0.0296
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.098   0.0408
+4 fastdist2(group_matrix)   0.004   1.0000
+
+ ********************   group_22   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.094   0.0426
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.065   0.0615
+4 fastdist2(group_matrix)   0.004   1.0000
+
+ ********************   group_23   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.126   0.0317
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.093   0.0430
+4 fastdist2(group_matrix)   0.004   1.0000
+
+ ********************   group_24   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.113   0.0354
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.084   0.0476
+4 fastdist2(group_matrix)   0.004   1.0000
+
+ ********************   group_25   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.103   0.0388
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.074   0.0541
+4 fastdist2(group_matrix)   0.004   1.0000
+
+ ********************   group_26   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.103   0.0388
+5 eucdist_C(group_matrix)   0.004   1.0000
+2 eucdist_R(group_matrix)   0.077   0.0519
+4 fastdist2(group_matrix)   0.004   1.0000
+
+ ********************   group_27   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.104   0.0385
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.074   0.0541
+4 fastdist2(group_matrix)   0.004   1.0000
+
+ ********************   group_28   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.218   0.0183
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.150   0.0267
+4 fastdist2(group_matrix)   0.006   0.6667
+
+ ********************   group_29   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.206   0.0194
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.142   0.0282
+4 fastdist2(group_matrix)   0.006   0.6667
+
+ ********************   group_30   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.150   0.0267
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.108   0.0370
+4 fastdist2(group_matrix)   0.005   0.8000
+
+ ********************   group_31   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.005   1.0000
+1   dotprod(group_matrix)   0.268   0.0187
+5 eucdist_C(group_matrix)   0.003   1.6667
+2 eucdist_R(group_matrix)   0.175   0.0286
+4 fastdist2(group_matrix)   0.007   0.7143
+
+ ********************   group_32   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.104   0.0385
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.076   0.0526
+4 fastdist2(group_matrix)   0.003   1.3333
+
+ ********************   group_33   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.003   1.0000
+1   dotprod(group_matrix)   0.114   0.0263
+5 eucdist_C(group_matrix)   0.003   1.0000
+2 eucdist_R(group_matrix)   0.118   0.0254
+4 fastdist2(group_matrix)   0.003   1.0000
+
+ ********************   group_34   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.119   0.0336
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.075   0.0533
+4 fastdist2(group_matrix)   0.004   1.0000
+
+ ********************   group_35   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.003   1.0000
+1   dotprod(group_matrix)   0.062   0.0484
+5 eucdist_C(group_matrix)   0.003   1.0000
+2 eucdist_R(group_matrix)   0.030   0.1000
+4 fastdist2(group_matrix)   0.001   3.0000
+
+ ********************   group_36   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.174   0.0230
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.097   0.0412
+4 fastdist2(group_matrix)   0.005   0.8000
+
+ ********************   group_37   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.095   0.0421
+5 eucdist_C(group_matrix)   0.004   1.0000
+2 eucdist_R(group_matrix)   0.083   0.0482
+4 fastdist2(group_matrix)   0.003   1.3333
+
+ ********************   group_38   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.125   0.0320
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.081   0.0494
+4 fastdist2(group_matrix)   0.004   1.0000
+
+ ********************   group_39   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.087   0.0460
+5 eucdist_C(group_matrix)   0.004   1.0000
+2 eucdist_R(group_matrix)   0.060   0.0667
+4 fastdist2(group_matrix)   0.003   1.3333
+
+ ********************   group_40   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.208   0.0192
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.141   0.0284
+4 fastdist2(group_matrix)   0.006   0.6667
+
+ ********************   group_41   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.093   0.0430
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.068   0.0588
+4 fastdist2(group_matrix)   0.003   1.3333
+
+ ********************   group_42   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.115   0.0348
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.081   0.0494
+4 fastdist2(group_matrix)   0.004   1.0000
+
+ ********************   group_43   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.114   0.0351
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.082   0.0488
+4 fastdist2(group_matrix)   0.004   1.0000
+
+ ********************   group_44   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.003   1.0000
+1   dotprod(group_matrix)   0.126   0.0238
+5 eucdist_C(group_matrix)   0.003   1.0000
+2 eucdist_R(group_matrix)   0.090   0.0333
+4 fastdist2(group_matrix)   0.004   0.7500
+
+ ********************   group_45   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.094   0.0426
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.066   0.0606
+4 fastdist2(group_matrix)   0.003   1.3333
+
+ ********************   group_46   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.003   1.0000
+1   dotprod(group_matrix)   0.094   0.0319
+5 eucdist_C(group_matrix)   0.005   0.6000
+2 eucdist_R(group_matrix)   0.064   0.0469
+4 fastdist2(group_matrix)   0.004   0.7500
+
+ ********************   group_47   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.164   0.0244
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.154   0.0260
+4 fastdist2(group_matrix)   0.005   0.8000
+
+ ********************   group_48   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.137   0.0292
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.139   0.0288
+4 fastdist2(group_matrix)   0.004   1.0000
+
+ ********************   group_49   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.116   0.0345
+5 eucdist_C(group_matrix)   0.003   1.3333
+2 eucdist_R(group_matrix)   0.084   0.0476
+4 fastdist2(group_matrix)   0.003   1.3333
+
+ ********************   group_50   ******************** 
+                     test elapsed relative
+3      dist(group_matrix)   0.004   1.0000
+1   dotprod(group_matrix)   0.136   0.0294
+5 eucdist_C(group_matrix)   0.004   1.0000
+2 eucdist_R(group_matrix)   0.099   0.0404
+4 fastdist2(group_matrix)   0.005   0.8000
