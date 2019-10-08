@@ -1,3 +1,4 @@
+STEPS
 
 1 . generate a matrix with two columns and 1000 rows (The columns of M are X and Y )
 2. Calculate distances between every pair. ( there are 1000*999/2 unique pairs)
